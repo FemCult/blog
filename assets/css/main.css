@@ -805,7 +805,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: italic;
-  color: #ada8a8;
+  color: #837e7e;
 }
 
 pre {
@@ -948,7 +948,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
+  background-color: violet;
 }
 
 .about img {
@@ -974,7 +974,7 @@ table tfoot td {
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
+  text-decoration: underline wavy, 1px, violet;
   color: #333030;
   font-weight: 700;
 }
@@ -1132,8 +1132,8 @@ footer .copyright {
   -webkit-transform: translate(0px, -2px);
       -ms-transform: translate(0px, -2px);
           transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  -webkit-box-shadow: 0 15px 30px -10px rgba(238, 130, 238, 0.5);
+          box-shadow: 0 15px 30px -10px rgba(238, 130, 238, 0.5);
 }
 
 .post .post-thumbnail {
@@ -1152,7 +1152,7 @@ footer .copyright {
 
 .post .post-content .post-date,
 .post .post-content .post-words {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .post .post-content .post-title {

@@ -1,0 +1,41 @@
+---
+layout: post
+title: What is feminism? What is feminist theory?
+date: 2024-10-28 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: flat-international-women-s-day-background_52683-158383.jpg # Add image post (optional)
+tags: [Concepts, Definitions,] # add tag
+---
+
+You might have heard the word **feminism** before, but what does it really mean? And how does it differ from **feminist theory**? Let’s break it down in a way that’s easy to understand.
+
+### What is Feminism?
+
+At its core, feminism is a movement that aims for equality between all genders. It focuses on challenging and changing systems that give more power, opportunities, and resources to men while limiting these for women and other marginalized genders. Feminism works to break down barriers that hold people back based on their gender.
+
+Feminism isn’t just about women—it’s about everyone being treated fairly, regardless of their gender. It also looks at how other aspects of our identity, like race, class, and sexuality, impact the way we experience the world. That’s why you might hear about **intersectional feminism**, which means looking at how different systems of oppression overlap.
+
+### What is Feminist Theory?
+
+While feminism is a movement that seeks to create change in the world, **feminist theory** is more about understanding and explaining how gender inequality works. Feminist theory is a set of ideas and thinking tools that help us analyze the world around us. It asks questions like:
+
+- Why do certain groups of people have more power than others?
+- How are ideas about gender created and spread in society?
+- What can we do to make things more equal?
+
+Feminist theory is often used by academics, researchers, and activists to study everything from history and literature to politics and media. It helps us dig deeper into how systems of power shape our lives, and it offers ways to think about how we can challenge those systems.
+
+### Feminism vs. Feminist Theory: What’s the Difference?
+
+Now that we’ve looked at both terms, let’s compare them:
+
+- **Feminism** is a movement for gender equality. It’s about making real-world changes to ensure everyone has the same opportunities and rights, regardless of their gender.
+- **Feminist theory** is the study and analysis of gender inequality. It helps us understand why these inequalities exist and how we can think critically about them.
+
+To put it simply: feminism is about action and change, while feminist theory is about thinking and understanding concepts. Both are important, and they often work together!
+
+---
+That’s it for today’s post! Feminism and feminist theory are big ideas, but we’ll take it step by step and explore more together. Let’s continue learning and growing!
+
+---
+[Image by pikisuperstar on Freepik](https://www.freepik.com/free-vector/flat-international-women-s-day-background_144464964.htm#fromView=search&page=1&position=38&uuid=1857987c-9eec-423c-ad45-17bcd5807d05)
