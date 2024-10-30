@@ -9,11 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: FemCult # add your name
 author-img: femcult.jpg # add your photo
 about-author: FemCult is a space to make feminist theory accessible, exploring complex ideas in simple terms. Join the conversation as we learn, unlearn, and grow together. # add description
-social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
+social-instagram: fem_cult/ # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
+social-threads: fem_cult
 
 # Disqus
 discus-identifier:  # add your discus identifier
