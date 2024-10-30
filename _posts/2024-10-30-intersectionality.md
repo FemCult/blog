@@ -20,11 +20,11 @@ The term *intersectionality* was first used by Kimberlé Crenshaw, a Black femin
 
 Think of intersectionality like a road intersection. Each part of our identity—like being a woman, being Black, being LGBTQ+, or having a disability—is a different road that crosses at that intersection. The more roads intersect, the more complex the experience. Some people face challenges at only one “road” (like gender), but others are at the center of multiple roads and may experience overlapping discrimination or privilege.
 
-For example:
+**For example:**
 - A white woman and a Black woman both face sexism, but the Black woman might also experience racism, making her experience different from that of a white woman.
 - A wealthy woman and a low-income woman may both face gender discrimination, but their social class impacts their opportunities and access to resources, creating very different situations for them.
 
-![Image by Greta Bauer](igh_wheel-en.jpg)
+![Image by Greta Bauer](igh_wheel-en.jpg) 
 <a href="https://cihr-irsc.gc.ca/e/52352.html">Image by Greta Bauer </a>
 
 ## Why Does Intersectionality Matter?
