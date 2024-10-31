@@ -24,8 +24,8 @@ Think of intersectionality like a road intersection. Each part of our identityâ€
 - A white woman and a Black woman both face sexism, but the Black woman might also experience racism, making her experience different from that of a white woman.
 - A wealthy woman and a low-income woman may both face gender discrimination, but their social class impacts their opportunities and access to resources, creating very different situations for them.
 
-![Image by Greta Bauer](igh_wheel-en.jpg) 
-<a href="https://cihr-irsc.gc.ca/e/52352.html">Image by Greta Bauer </a>
+<p><img src="{{site.baseurl}}/assets/img/posts/igh_wheel-en.jpg" style="width:auto " alt="Image by Greta Bauer"></p>
+<p><a href="https://cihr-irsc.gc.ca/e/52352.html" target="_blank">Image by Greta Bauer </a></p>
 
 ## Why Does Intersectionality Matter?
 

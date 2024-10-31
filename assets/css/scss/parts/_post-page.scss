@@ -11,7 +11,7 @@
     line-height: 1.3;
   }
   .page-date {
-    color: $dark-gray;
+    color: #000;
     font-weight: 300;
     font-size: 12px;
     text-transform: uppercase;
@@ -41,8 +41,7 @@
     font-size: 10px;
   }
   .page-image {
-    width: 100%;
-    height: 100%;
+    max-width:30px 
   }
 }
 
